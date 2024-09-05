@@ -1,0 +1,74 @@
+0 12 99 75 84 77 37 65
+36 0 40 90 71 38 9 75
+46 72 0 38 17 46 75 8
+8 57 27 0 61 88 71 7
+54 60 76 66 0 24 50 15
+68 54 47 70 94 0 36 40
+32 11 14 44 84 18 0 61
+96 59 35 4 15 63 31 0
+
+
+A
+A B
+A B G C
+A B G C H D
+A B G C E
+A B G F
+A B G
+A B G C H
+B A
+B
+B G C
+B G C H D
+B G C E
+B G F
+B G
+B G C H
+C H D A
+C H D A B
+C
+C H D
+C E
+C E F
+C H G
+C H
+D A
+D A B
+D C
+D
+D H E
+D H E F
+D A B G
+D H
+E H D A
+E H D A B
+E H D C
+E H D
+E
+E F
+E H G
+E H
+F H D A
+F G B
+F C
+F H D
+F H E
+F
+F G
+F H
+G A
+G B
+G C
+G C H D
+G C E
+G F
+G
+G C H
+H D A
+H D A B
+H D C
+H D
+H E
+H E F
+H G
+H
